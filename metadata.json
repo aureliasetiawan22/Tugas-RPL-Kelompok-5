@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: secoondPerbaikan UI Yafet mo ubah second version 2",
+  "description": "Aplikasi PWA kasir gamifikasi kreatif untuk pencatatan keuangan UMKM mikro dengan fitur HP Bar restock, Gold Bar profit, dan One-Tap Strike.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
